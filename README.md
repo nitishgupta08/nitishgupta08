@@ -8,6 +8,9 @@
 [<img align="left" alt="nitishgupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nitishgupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br>
+<br>
+
 <h3>Stats</h3>
 <a href="https://github.com/nitishgupta08">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishgupta08&show_icons=true" alt="Nitish's github stats" />
@@ -21,8 +24,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishgupta08&layout=compact" alt="Nitish's top languages used" />
 </a>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
+[website]: http://www.example.com/
+[twitter]: https://twitter.com/_nitishgupta
 [youtube]: https://www.youtube.com/channel/UCdkzWAWV3-RwklA7-S0FUhQ
 [instagram]: https://www.instagram.com/_nitishgupta/
 [linkedin]: https://www.linkedin.com/in/nitish-kumar-gupta-667bb018a/
