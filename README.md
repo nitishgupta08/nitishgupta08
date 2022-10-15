@@ -4,9 +4,6 @@
 - 🔭 &nbsp;I’m currently working on a cool project with my friends
 - 🌱 &nbsp;I’m currently learning Javascript, ReactJS
 - 💬 &nbsp;Ask me about anything related to C/C++/Python
-- 📫 &nbsp;How to reach me: [@_nitishgupta](https://twitter.com/_nitishgupta)
-
-
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
